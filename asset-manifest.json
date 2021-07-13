@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.0391a021.chunk.css",
+    "main.js": "/memory-card/static/js/main.a6a6bb54.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.a6a6bb54.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.714dd9e2.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.714dd9e2.js.map",
+    "static/js/2.5655f0b3.chunk.js": "/memory-card/static/js/2.5655f0b3.chunk.js",
+    "static/js/2.5655f0b3.chunk.js.map": "/memory-card/static/js/2.5655f0b3.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.0391a021.chunk.css.map": "/memory-card/static/css/main.0391a021.chunk.css.map",
+    "static/js/2.5655f0b3.chunk.js.LICENSE.txt": "/memory-card/static/js/2.5655f0b3.chunk.js.LICENSE.txt",
+    "static/media/bacilluscereus.28d1cab2.jpg": "/memory-card/static/media/bacilluscereus.28d1cab2.jpg",
+    "static/media/App.css": "/memory-card/static/media/background.cc1dbdae.jpg",
+    "static/media/botulism.ba18ff08.jpg": "/memory-card/static/media/botulism.ba18ff08.jpg",
+    "static/media/camplobacter.f2a46741.jpg": "/memory-card/static/media/camplobacter.f2a46741.jpg",
+    "static/media/clostridium-perfrigens.1c406c75.jpg": "/memory-card/static/media/clostridium-perfrigens.1c406c75.jpg",
+    "static/media/ecoli.d05b04e5.jpg": "/memory-card/static/media/ecoli.d05b04e5.jpg",
+    "static/media/gonorrhea.2bc9dbd8.jpg": "/memory-card/static/media/gonorrhea.2bc9dbd8.jpg",
+    "static/media/lactobacillus.8227db86.jpg": "/memory-card/static/media/lactobacillus.8227db86.jpg",
+    "static/media/listeria.1f28643a.jpeg": "/memory-card/static/media/listeria.1f28643a.jpeg",
+    "static/media/salmonella.fc4c32e4.jpg": "/memory-card/static/media/salmonella.fc4c32e4.jpg",
+    "static/media/shigella.41c29bef.png": "/memory-card/static/media/shigella.41c29bef.png",
+    "static/media/staph.23d26904.jpg": "/memory-card/static/media/staph.23d26904.jpg",
+    "static/media/syphilis.5a4db44e.jpeg": "/memory-card/static/media/syphilis.5a4db44e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.714dd9e2.js",
+    "static/js/2.5655f0b3.chunk.js",
+    "static/css/main.0391a021.chunk.css",
+    "static/js/main.a6a6bb54.chunk.js"
+  ]
+}
